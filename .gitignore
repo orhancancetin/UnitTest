@@ -250,7 +250,7 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
-# Business Intelligence projects
+# Business Intelligence project
 *.rdl.data
 *.bim.layout
 *.bim_*.settings
